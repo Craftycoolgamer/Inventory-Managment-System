@@ -1,0 +1,18 @@
+C:\Users\crafty\Desktop\C968\Inventory Managment System\obj\Debug\net8.0-windows\Inventory_Managment_System.AddPart.resources
+C:\Users\crafty\Desktop\C968\Inventory Managment System\obj\Debug\net8.0-windows\Inventory_Managment_System.AddProduct.resources
+C:\Users\crafty\Desktop\C968\Inventory Managment System\obj\Debug\net8.0-windows\Inventory_Managment_System.mainscreen.resources
+C:\Users\crafty\Desktop\C968\Inventory Managment System\obj\Debug\net8.0-windows\Inventory Managment System.csproj.GenerateResource.cache
+C:\Users\crafty\Desktop\C968\Inventory Managment System\obj\Debug\net8.0-windows\Inventory Managment System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crafty\Desktop\C968\Inventory Managment System\obj\Debug\net8.0-windows\Inventory Managment System.AssemblyInfoInputs.cache
+C:\Users\crafty\Desktop\C968\Inventory Managment System\obj\Debug\net8.0-windows\Inventory Managment System.AssemblyInfo.cs
+C:\Users\crafty\Desktop\C968\Inventory Managment System\obj\Debug\net8.0-windows\Inventory Managment System.csproj.CoreCompileInputs.cache
+C:\Users\crafty\Desktop\C968\Inventory Managment System\bin\Debug\net8.0-windows\Inventory Managment System.exe
+C:\Users\crafty\Desktop\C968\Inventory Managment System\bin\Debug\net8.0-windows\Inventory Managment System.deps.json
+C:\Users\crafty\Desktop\C968\Inventory Managment System\bin\Debug\net8.0-windows\Inventory Managment System.runtimeconfig.json
+C:\Users\crafty\Desktop\C968\Inventory Managment System\bin\Debug\net8.0-windows\Inventory Managment System.dll
+C:\Users\crafty\Desktop\C968\Inventory Managment System\bin\Debug\net8.0-windows\Inventory Managment System.pdb
+C:\Users\crafty\Desktop\C968\Inventory Managment System\obj\Debug\net8.0-windows\Inventory Managment System.dll
+C:\Users\crafty\Desktop\C968\Inventory Managment System\obj\Debug\net8.0-windows\refint\Inventory Managment System.dll
+C:\Users\crafty\Desktop\C968\Inventory Managment System\obj\Debug\net8.0-windows\Inventory Managment System.pdb
+C:\Users\crafty\Desktop\C968\Inventory Managment System\obj\Debug\net8.0-windows\Inventory Managment System.genruntimeconfig.cache
+C:\Users\crafty\Desktop\C968\Inventory Managment System\obj\Debug\net8.0-windows\ref\Inventory Managment System.dll
